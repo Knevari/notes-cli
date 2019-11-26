@@ -1,0 +1,4 @@
+editor: atom
+editorClis:
+  atom: atom
+  vscode: code

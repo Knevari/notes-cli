@@ -1,0 +1,17 @@
+{
+  "name": "notes-cli",
+  "version": "1.0.0",
+  "description": "A tool for creating notes with your favorite text editor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "private": true,
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^4.0.1",
+    "js-yaml": "^3.13.1"
+  }
+}
